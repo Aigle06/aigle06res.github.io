@@ -1,9 +1,7 @@
 # Greenland-website
-- 👋 Hi, I’m @Aigle06
+- 👋 Hi, I’m Ibrahim Aymane Zaitoune
 - 💪 I am passionate about programming.
-- 🌱 I’m currently learning full stack web development.
-- 📫 How to reach me https://www.linkedin.com/in/aymane-zaitoune-877542199/
-- Instagram : https://www.instagram.com/aigle_06
+
 
 <!---
 Aigle06/Aigle06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
